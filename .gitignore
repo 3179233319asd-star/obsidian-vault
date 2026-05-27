@@ -1,0 +1,14 @@
+# Obsidian workspace cache
+.obsidian/workspace*.json
+.obsidian/cache
+.obsidian/plugins/*
+.obsidian/themes/*
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.pyc
